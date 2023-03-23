@@ -1,3 +1,6 @@
+# **USE [aPEAR](https://github.com/ievaKer/aPEAR) INSTEAD**
+We have decided to rename the _pathExplore_ package to _aPEAR_. This repository was maintained for backward compatibility reasons only and will soon be removed.
+
 # pathExplore - an R package for high level GSEA exploration
 
 ![Alt text](example.png "Pathway cluster network")
